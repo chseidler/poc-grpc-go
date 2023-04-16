@@ -1,9 +1,10 @@
 package service
 
 import (
-	"chseidler/gRPC/internal/database"
-	"chseidler/gRPC/internal/pb"
 	"context"
+
+	"github.com/chseidler/poc-grpc-go/internal/database"
+	"github.com/chseidler/poc-grpc-go/internal/pb"
 )
 
 type CategoryService struct {

@@ -1,4 +1,4 @@
-module chseidler/gRPC
+module github.com/chseidler/poc-grpc-go
 
 go 1.20
 
